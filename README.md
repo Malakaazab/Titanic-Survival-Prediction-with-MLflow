@@ -29,8 +29,4 @@ This project aims to predict the survival of passengers on the Titanic using mac
 MLflow was used to log parameters, metrics, and model artifacts.  
 A new experiment named **"Malak Experiment"** was successfully created and tracked.
 
-## 📁 Files
-- `titanic_mlflow.ipynb` → The main Jupyter Notebook
-- `requirements.txt` → List of dependencies (if applicable)
-Senior Computer Science Student at Ain Shams University  
-Interested in Data Analysis, Machine Learning, and Deep Learning.
+
